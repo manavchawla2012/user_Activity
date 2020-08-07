@@ -27,7 +27,7 @@ $ get_user_activity: Return User and User Activity
 
 
 
-#Project Created and Hosted Using
+# Project Created and Hosted Using
 
 * [Django](https://docs.djangoproject.com/en/3.0/) - 3.0.2
 * [Django Rest Framework](https://www.django-rest-framework.org/) - 3.11.1
