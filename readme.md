@@ -37,4 +37,4 @@ $ get_user_activity: Return User and User Activity
 
 ### Contact
 * [Linkedin](https://www.linkedin.com/in/manav-chawla-9b1147120/)
-* [Email](manavchawla2012@gmail.com)
+* [Email](mailto:manavchawla2012@gmail.com)
